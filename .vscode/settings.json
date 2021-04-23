@@ -1,0 +1,9 @@
+{
+  "telemetry.enableCrashReporter": false,
+  "workbench.enableExperiments": false,
+  "bracketPairColorizer.colorMode": "Independent",
+  "bracketPairColorizer.forceUniqueOpeningColor": true,
+  "bracketPairColorizer.showBracketsInRuler": true,
+
+  "terminal.integrated.fontFamily": "DejaVu Sans Mono for Powerline"
+}
